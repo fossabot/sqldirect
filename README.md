@@ -1,6 +1,7 @@
 #  SQLDirect: A Micro ORM for Python
 
 [![Build Status](https://travis-ci.com/gpcimino/sqldirect.svg?branch=master)](https://travis-ci.com/gpcimino/sqldirect)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpcimino%2Fsqldirect.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpcimino%2Fsqldirect?ref=badge_shield)
 
 [![BCH compliance](https://bettercodehub.com/edge/badge/gpcimino/sqldirect?branch=master)](https://bettercodehub.com/)
 
@@ -24,3 +25,6 @@ To see the list of supported DB-API driver check the extra_require parameter in 
 ## Usage
 
 see tests
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpcimino%2Fsqldirect.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpcimino%2Fsqldirect?ref=badge_large)
